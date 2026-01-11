@@ -1,0 +1,11 @@
+*.pdf
+
+__pycache__/
+.vscode/
+
+.venv
+.svenv
+
+catboost_info/
+
+datasets/
